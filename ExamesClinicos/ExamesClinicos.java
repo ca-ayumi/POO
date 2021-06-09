@@ -66,7 +66,6 @@ public class ExamesClinicos {
 		}
 	}
 	public int retornaInteiro(String entrada) { 
-		int numInt;
 
 
 		while (!this.intValido(entrada)) {
