@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
 
 
 public class ExamesClinicos {
+
 	private ArrayList<Exame> exames;
 
 	public ExamesClinicos() {
