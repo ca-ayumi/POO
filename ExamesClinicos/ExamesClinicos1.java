@@ -98,27 +98,27 @@ public class ExamesClinicos1 {
 	}
 
 
-	public static void main(String[] args) {
-		ExamesClinicos1 exam  = new ExamesClinicos1();
+	// public static void main(String[] args) {
+	// 	ExamesClinicos1 exam  = new ExamesClinicos1();
 
-		Sangue camila    = new Sangue("Unimed","Dr. Rossival", "Camila");
-		// Gato garfield = new Gato("Garfield", 7, "Maria");
-		// Cao  rex      = new Cao ("Rex",  2, "Jose");
-		// Cao  toto     = new Cao ("Toto", 5, "Jose");
+	// 	Sangue camila    = new Sangue("Unimed","Dr. Rossival", "Camila");
+	// 	// Gato garfield = new Gato("Garfield", 7, "Maria");
+	// 	// Cao  rex      = new Cao ("Rex",  2, "Jose");
+	// 	// Cao  toto     = new Cao ("Toto", 5, "Jose");
         
-		exam.adicionaExame(camila);
-		// exam.adicionaExame(garfield);
-		// exam.adicionaExame(rex);
-		// exam.adicionaExame(toto);
-		exam.listarExame();
-		exam.gravarExame();
-		exam.excluirExame();
-		exam.listarExame();
-		exam.excluirExame();
-		exam.listarExame();
-		exam.recuperarExame();
-		exam.listarExame();
-	}
+	// 	exam.adicionaExame(camila);
+	// 	// exam.adicionaExame(garfield);
+	// 	// exam.adicionaExame(rex);
+	// 	// exam.adicionaExame(toto);
+	// 	exam.listarExame();
+	// 	exam.gravarExame();
+	// 	exam.excluirExame();
+	// 	exam.listarExame();
+	// 	exam.excluirExame();
+	// 	exam.listarExame();
+	// 	exam.recuperarExame();
+	// 	exam.listarExame();
+	// }
 
 }
 
