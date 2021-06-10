@@ -97,6 +97,7 @@ public class ExamesClinicos1 {
 		}
 	}
 
+	//camila
 
 	// public static void main(String[] args) {
 	// 	ExamesClinicos1 exam  = new ExamesClinicos1();
